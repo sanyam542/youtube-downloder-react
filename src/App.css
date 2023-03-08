@@ -1,0 +1,40 @@
+*{
+
+}
+.App{
+display: grid;
+justify-content: center;
+}
+body{
+    background-image: url(../public/wp8613790.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+iframe{
+    margin-top: 20px;
+}
+h1{
+    color: white;
+    font-family: 'Rampart One', cursive;
+    
+}
+label{
+    color: white;
+}
+input{
+    width: 550px;
+    margin: 1px;
+    height: 22px;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin-left: 15px;
+}
+button{
+    margin-top: 2px;
+    border-radius: 16px;
+    padding: 7px 18px;
+}
